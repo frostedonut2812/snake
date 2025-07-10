@@ -36,6 +36,3 @@ A visually enhanced version of the classic Snake game built with Python and Pyga
 
 ## Credits
 Developed by Sachin Chopra
-
----
-Feel free to modify or enhance the game as you like! 
