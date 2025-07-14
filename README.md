@@ -10,21 +10,6 @@ A visually enhanced version of the classic Snake game built with Python and Pyga
 - Score tracking and game over screen with final score display
 
 
-## Requirements
-- Python 3.x
-- Pygame
-
-## Installation
-1. Clone this repository or download the source code.
-2. Install the required dependencies:
-   ```bash
-   pip install pygame
-   ```
-3. Run the game:
-   ```bash
-   python snake.py
-   ```
-
 ## Controls
 - **Arrow Keys**: Change snake direction (Up, Down, Left, Right)
 - **Any Key**: Exit after game over
